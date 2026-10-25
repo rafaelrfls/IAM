@@ -35,7 +35,11 @@
 🔹selecione o servidor > next
 
 🔹selecione Active Directory Domain Service > next
+
 🔹clique em Add Feature > next
+
 🔹instalar
+
 🔹Após instalar, clique na notificação e clique em Promote this server to a domain controller.
+
 🔹Adicione nova forest e insira domain name > Next.
