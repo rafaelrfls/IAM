@@ -2,9 +2,9 @@
 
 ---
 
-**Crie um Windows Server no VirtualBox com Network configurado para Bridged Adapter:**
+## **Crie um Windows Server no VirtualBox com Network configurado para Bridged Adapter:**
 
-**Configurar rede:**
+## **Configurar rede:**
 
 🔹 Windows + R. digite ncpa.cpl e clique com botão direito em Ethernet > Propriedades 
 
@@ -16,7 +16,7 @@
 
 ---
 
-**Instalar o AD DS:**
+## **Instalar o AD DS:**
 
 ***Antes de instalar, mudar o nome do servidor***
 
