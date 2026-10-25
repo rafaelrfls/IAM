@@ -18,13 +18,13 @@
 
 **Instalar o AD DS:**
 
-🔹antes de instalar, mudar o nome do servidor
+***Antes de instalar, mudar o nome do servidor***
 
 🔹Windows+R > digite sysdm.cpl
 
 🔹Computer name > change > reinicie a maquina
 
-🔹Instalar o AD DS
+***Instalar o AD DS***
 
 🔹Abra o server manager
 
