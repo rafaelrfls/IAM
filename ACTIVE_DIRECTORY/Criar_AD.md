@@ -2,7 +2,7 @@
 
 ---
 
-## **Crie um Windows Server no VirtualBox com Network configurado para Bridged Adapter:**
+🔹Crie um Windows Server no VirtualBox com Network configurado para Bridged Adapter
 
 ## **Configurar rede:**
 
