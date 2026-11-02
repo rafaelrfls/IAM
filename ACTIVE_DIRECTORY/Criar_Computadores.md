@@ -40,7 +40,7 @@
 
 🔹Selecione Domain
 
-🔹Entre o nome > OK
+🔹Entre o nome do domínio > OK
 
 🔹Entre username: ex: LAB\Administrator
 
